@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/doc1
   label: doc 1
-  match: "**/*"
 - type: document
   path: README.md
   label: README
